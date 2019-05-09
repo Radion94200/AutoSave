@@ -13,7 +13,7 @@ Currently I select files manually.
 ## Install
 For a good use of the script you must:
 
-````bash
+```bash
 chmod +x backup.sh
 ```
 
@@ -21,7 +21,7 @@ chmod +x backup.sh
 Before launching the program you must modify the ipadress, password and the \
 files you want to backup.
 
-````bash
+```bash
 ./backup.sh
 ```
 
